@@ -1,0 +1,27 @@
+# Quartus working files
+*.qws
+**/db/
+**/incremental_db/
+
+# Quartus output files
+**/output_files/
+
+# Backup files
+*.bak
+
+# ModelSim working files
+**/work/
+**/simulation/
+vsim.wlf
+
+# Intel Monitor Program temp
+*.swp
+
+# Compiled
+*.s.o
+*.c.o
+*.elf
+*.srec
+
+# MacOS
+*.DS_Store
